@@ -1,8 +1,12 @@
-### ALisha Bhimani
+### Alisha Bhimani
 
-[<img align = "left", alt = "@alishabhimani | LinkedIn", src="linkedin.svg" />][linkedin]
+[<img align = "left" width="22px" alt = "@alishabhimani | LinkedIn" src="linkedin.svg" />][linkedin]
+[<img align = "left" width="22px" alt = "@alishabhimani | Instagram" src="instagram.svg" />][instagram]
+[<img align = "left" width="22px" alt = "@AlishaBhimani10 | Twitter" src="twitter.svg" />][twitter]
 
-[linkedin]: www.linkedin/in/alishabhimani
+[linkedin]: www.linkedin.com/in/alishabhimani
+[instagram]: www.instagram.com/alishabhimani
+[twitter]: www.twitter.com/AlishaBhimani10
 
 
 Hi, I'm Alisha Bhimani, 
