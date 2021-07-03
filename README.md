@@ -1,9 +1,9 @@
-[<img align = "left" width="22px" alt = "@alishabhimani | LinkedIn" src="linkedin.svg" />][linkedin]
-[<img align = "left" width="22px" alt = "@alishabhimani | Instagram" src="instagram.svg" />][instagram]
-[<img align = "left" width="22px" alt = "@AlishaBhimani10 | Twitter" src="twitter.svg" />][twitter]
-[<img align = "left" width="22px" alt = "@alisha.bhimani | Email" src="maildotru.svg" />][email]
-[<img align = "left" width="22px" alt = "@alisha.bhimani | Spotify" src="spotify.svg" />][spotify]
-[<img align = "left" width="22px" alt = "@alishabhimani | Buy Me a Coffee" src="buymeacoffee.svg" />][coffee]
+[<img align = "left" width="22px" alt = "@alishabhimani | LinkedIn" src="imgs/linkedin.svg" />][linkedin]
+[<img align = "left" width="22px" alt = "@alishabhimani | Instagram" src="imgs/instagram.svg" />][instagram]
+[<img align = "left" width="22px" alt = "@AlishaBhimani10 | Twitter" src="imgs/twitter.svg" />][twitter]
+[<img align = "left" width="22px" alt = "@alisha.bhimani | Email" src="imgs/maildotru.svg" />][email]
+[<img align = "left" width="22px" alt = "@alisha.bhimani | Spotify" src="imgs/spotify.svg" />][spotify]
+[<img align = "left" width="22px" alt = "@alishabhimani | Buy Me a Coffee" src="imgs/buymeacoffee.svg" />][coffee]
 
 [linkedin]: https://www.linkedin.com/in/alishabhimani/
 [instagram]: https://www.instagram.com/alishabhimani/
