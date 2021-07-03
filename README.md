@@ -20,7 +20,7 @@ Hi, I'm [Alisha Bhimani](https://alishabhimani.ca/), a healthcare researcher and
 - MS Health Data Science from Dartmouth
 - Research Associate at Princess Margaret Cancer Center
 - Currently learning how to be a **Data Artist**
-- Avid caffinated coder (I will code in exchange of coffee!)
+- Avid (caffinated) coder: I will code in exchange of coffee!
 
 Looking for collaboratoes and/or consultors, visit www.alishabhimani.ca and connect with me by email or social media.
 
