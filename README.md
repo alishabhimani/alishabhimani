@@ -15,14 +15,13 @@
 <br>
 
 
-Hi, I'm [Alisha Bhimani](https://alishabhimani.ca/), a healthcare researcher and data scientist with a passion of exploration and learning. I believe that ***data-driven creative solutions*** can be used to make educated and informed decisions that have high societal impact. Along with providing data-drive solutions within healthcare and otherwise, I am currently exploring facets of data-drive art that use datasets to convery experiences and emotions to the audience.
+Hi, I'm [Alisha Bhimani](https://alishabhimani.ca/), a healthcare researcher and data scientist with a passion of exploration and learning. I believe that ***data-driven creative solutions*** can be used to make educated and informed decisions that have high societal impact. Along with providing data-drive solutions within healthcare and otherwise, I am currently exploring facets of data_design that convey unique experiences and emotions to the audience.
 
 - MS Health Data Science from Dartmouth
-- Research Associate at Princess Margaret Cancer Center
-- Currently learning how to be a **Data Artist**
+- Currently exploring Data+Design methods
 - Avid (caffinated) coder: I will code in exchange of coffee!
 
-Always looking for collaborations, visit me at www.alishabhimani.ca and connect by email or social media. 
+Always looking for collaborations, feel free to connect by email or social media. 
 
 I would love to work with you! :) 
 
